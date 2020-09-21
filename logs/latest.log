@@ -1,0 +1,351 @@
+[12:49:37] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[12:49:37] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[12:49:38] [Worker-Main-2/INFO]: Loaded 7 recipes
+[12:49:40] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[12:49:40] [Server thread/INFO]: Loading properties
+[12:49:40] [Server thread/INFO]: This server is running Paper version git-Paper-202 (MC: 1.16.3) (Implementing API version 1.16.3-R0.1-SNAPSHOT)
+[12:49:40] [Server thread/INFO]: Debug logging is disabled
+[12:49:40] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:49:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:49:40] [Server thread/INFO]: Default game type: SURVIVAL
+[12:49:40] [Server thread/INFO]: Generating keypair
+[12:49:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:49:40] [Server thread/INFO]: Using default channel type
+[12:49:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:49:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:49:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:49:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:49:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:49:41] [Server thread/INFO]: Preparing level "world"
+[12:49:41] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:49:41] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[12:49:41] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:49:41] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:49:41] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:49:41] [Server thread/INFO]: Max TNT Explosions: 100
+[12:49:41] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:49:41] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:49:41] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:49:41] [Server thread/INFO]: View Distance: 10
+[12:49:41] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:49:41] [Server thread/INFO]: Mob Spawn Range: 8
+[12:49:41] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:49:41] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:49:41] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:49:41] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:49:41] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:49:41] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[12:49:41] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:49:41] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:49:41] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:49:41] [Server thread/INFO]: Max TNT Explosions: 100
+[12:49:41] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:49:41] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:49:41] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:49:41] [Server thread/INFO]: View Distance: 10
+[12:49:41] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:49:41] [Server thread/INFO]: Mob Spawn Range: 8
+[12:49:41] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:49:41] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:49:41] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:49:41] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:49:41] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:49:41] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[12:49:41] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:49:41] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:49:41] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:49:41] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:49:41] [Server thread/INFO]: Max TNT Explosions: 100
+[12:49:41] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:49:41] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:49:41] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:49:41] [Server thread/INFO]: View Distance: 10
+[12:49:41] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:49:41] [Server thread/INFO]: Mob Spawn Range: 8
+[12:49:41] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:49:41] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:49:41] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:49:41] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:49:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:49:42] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[12:49:42] [Server thread/INFO]: Time elapsed: 295 ms
+[12:49:42] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[12:49:42] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[12:49:42] [Server thread/INFO]: Time elapsed: 101 ms
+[12:49:42] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[12:49:42] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[12:49:42] [Server thread/INFO]: Time elapsed: 88 ms
+[12:49:42] [Server thread/INFO]: Running delayed init tasks
+[12:49:42] [Server thread/INFO]: Done (2.079s)! For help, type "help"
+[12:49:42] [Server thread/INFO]: Timings Reset
+[12:51:31] [User Authenticator #1/INFO]: UUID of player dotunglamnd is 5337d88e-f7f9-3097-9109-db7b8ca403d0
+[12:51:32] [Server thread/INFO]: dotunglamnd joined the game
+[12:51:33] [Server thread/INFO]: dotunglamnd[/127.0.0.1:51390] logged in with entity id 308 at ([world]-34.27846990606419, 82.0, -31.17503699277794)
+[12:52:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
+[12:52:22] [Server thread/INFO]: dotunglamnd issued server command: /give dotunglamnd minecraft:structure_void
+[12:52:22] [Server thread/INFO]: [dotunglamnd: Gave 1 [Structure Void] to dotunglamnd]
+[12:53:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6405ms or 128 ticks behind
+[13:01:25] [Server thread/INFO]: dotunglamnd issued server command: /time set day
+[13:01:25] [Server thread/INFO]: [dotunglamnd: Set the time to 1000]
+[13:07:21] [Server thread/INFO]: dotunglamnd issued server command: /weather c
+[13:07:23] [Server thread/INFO]: dotunglamnd issued server command: /weather c
+[13:07:25] [Server thread/INFO]: dotunglamnd issued server command: /weather clear
+[13:07:25] [Server thread/INFO]: [dotunglamnd: Set the weather to clear]
+[13:12:21] [Server thread/INFO]: dotunglamnd issued server command: /time set day
+[13:12:21] [Server thread/INFO]: [dotunglamnd: Set the time to 1000]
+[13:12:36] [Server thread/INFO]: dotunglamnd issued server command: /weather clear
+[13:12:36] [Server thread/INFO]: [dotunglamnd: Set the weather to clear]
+[13:16:35] [Server thread/INFO]: [@: Teleported dotunglamnd to -4404.5, 94.0, -5276.5]
+[13:17:18] [Server thread/INFO]: [@: Teleported dotunglamnd to -31.5, 82.0, -0.5]
+[13:18:03] [Server thread/INFO]: dotunglamnd issued server command: /weather clear
+[13:18:03] [Server thread/INFO]: [dotunglamnd: Set the weather to clear]
+[13:18:05] [Server thread/INFO]: dotunglamnd issued server command: /time set day
+[13:18:05] [Server thread/INFO]: [dotunglamnd: Set the time to 1000]
+[13:27:55] [Server thread/INFO]: [@: Teleported dotunglamnd to 0.5, 131.0, -2638.5]
+[13:28:13] [Server thread/INFO]: [@: Teleported dotunglamnd to -31.5, 82.0, -0.5]
+[13:28:44] [Server thread/INFO]: dotunglamnd issued server command: /time set day
+[13:28:44] [Server thread/INFO]: [dotunglamnd: Set the time to 1000]
+[13:28:46] [Server thread/INFO]: dotunglamnd issued server command: /weather clear
+[13:28:46] [Server thread/INFO]: [dotunglamnd: Set the weather to clear]
+[14:03:04] [Server thread/INFO]: dotunglamnd issued server command: /time set day
+[14:03:04] [Server thread/INFO]: [dotunglamnd: Set the time to 1000]
+[14:04:08] [Server thread/INFO]: dotunglamnd issued server command: /gamemode
+[14:04:14] [Server thread/INFO]: dotunglamnd issued server command: /gamemode survival
+[14:04:14] [Server thread/INFO]: [dotunglamnd: Set own game mode to Survival Mode]
+[14:04:42] [Server thread/INFO]: dotunglamnd issued server command: /gamemode creative
+[14:04:42] [Server thread/INFO]: [dotunglamnd: Set own game mode to Creative Mode]
+[14:37:31] [Server thread/INFO]: dotunglamnd issued server command: /time set day
+[14:37:31] [Server thread/INFO]: [dotunglamnd: Set the time to 1000]
+[14:51:54] [Server thread/INFO]: dotunglamnd issued server command: /fill
+[14:52:04] [Server thread/INFO]: dotunglamnd issued server command: /fill -34 61 -30
+[14:52:35] [Server thread/INFO]: dotunglamnd issued server command: /fill -34 61 -30 -9 62 -38 air replace minecraft:water
+[14:52:35] [Server thread/INFO]: [dotunglamnd: Successfully filled 197 blocks]
+[14:52:58] [Server thread/INFO]: dotunglamnd issued server command: /fill -34 61 -30 -8 61 -42 air replace minecraft:water
+[14:52:58] [Server thread/INFO]: [dotunglamnd: Successfully filled 74 blocks]
+[14:53:03] [Server thread/INFO]: dotunglamnd issued server command: /fill -34 61 -30 -8 61 -42 air replace minecraft:water
+[14:53:03] [Server thread/INFO]: [dotunglamnd: Successfully filled 70 blocks]
+[14:53:05] [Server thread/INFO]: dotunglamnd issued server command: /fill -34 61 -30 -8 61 -42 air replace minecraft:water
+[14:53:05] [Server thread/INFO]: [dotunglamnd: Successfully filled 70 blocks]
+[14:53:06] [Server thread/INFO]: dotunglamnd issued server command: /fill -34 61 -30 -8 61 -42 air replace minecraft:water
+[14:53:06] [Server thread/INFO]: [dotunglamnd: Successfully filled 70 blocks]
+[14:53:19] [Server thread/INFO]: dotunglamnd issued server command: /fill -8 61 -42
+[14:53:39] [Server thread/INFO]: dotunglamnd issued server command: /fill -8 61 -42 -31 61 -38 air replace water
+[14:53:39] [Server thread/INFO]: [dotunglamnd: Successfully filled 70 blocks]
+[14:53:57] [Server thread/INFO]: dotunglamnd issued server command: /fill -8 61 -42 -31 61 -38 air replace water[
+[14:54:01] [Server thread/INFO]: dotunglamnd issued server command: /fill -8 61 -42 -31 61 -38 air replace water[
+[14:54:12] [Server thread/INFO]: dotunglamnd issued server command: /fill -8 61 -42 -31 61 -40 air replace water[
+[14:54:19] [Server thread/INFO]: dotunglamnd issued server command: /fill -8 61 -42 -31 61 -40 air replace water[
+[14:54:33] [Server thread/INFO]: dotunglamnd issued server command: /fill -8 61 -42 -31 61 -40 air replace minecraft:water
+[14:54:33] [Server thread/INFO]: [dotunglamnd: Successfully filled 38 blocks]
+[14:55:27] [Server thread/INFO]: dotunglamnd issued server command: /fill -8 62 -42 -31 62 -40 air replace minecraft:water
+[14:55:27] [Server thread/INFO]: [dotunglamnd: Successfully filled 49 blocks]
+[14:55:49] [Server thread/INFO]: dotunglamnd issued server command: /fill -31 62 -39
+[14:56:15] [Server thread/INFO]: dotunglamnd issued server command: /fill -31 62 -39 -9 62 -39 air replace water[
+[14:56:21] [Server thread/INFO]: dotunglamnd issued server command: /fill -31 62 -39 -9 62 -39 air replace minecraft:water
+[14:56:21] [Server thread/INFO]: [dotunglamnd: Successfully filled 23 blocks]
+[14:57:08] [Server thread/INFO]: dotunglamnd issued server command: /fill -14 60 -42
+[14:57:23] [Server thread/INFO]: dotunglamnd issued server command: /fill -14 60 -42 -29 61 -33 air replace minecraft:water
+[14:57:23] [Server thread/INFO]: [dotunglamnd: Successfully filled 119 blocks]
+[14:58:13] [Server thread/INFO]: dotunglamnd issued server command: /fill -7 40 -47
+[14:58:31] [Server thread/INFO]: dotunglamnd issued server command: /fill -7 40 -47 -34 62 -29 air replace minecraft:water
+[14:58:31] [Server thread/INFO]: [dotunglamnd: Successfully filled 1489 blocks]
+[14:59:25] [Server thread/INFO]: dotunglamnd issued server command: /fill -39 40 -51
+[14:59:47] [Server thread/INFO]: dotunglamnd issued server command: /fill -39 40 -51 -7 62 -44 air replace minecraft:water
+[14:59:47] [Server thread/INFO]: [dotunglamnd: Successfully filled 402 blocks]
+[15:01:50] [Server thread/INFO]: dotunglamnd issued server command: /fill -51 40 -27
+[15:02:21] [Server thread/INFO]: dotunglamnd issued server command: /fill -51 40 -27 -40 62 -50 air replace minecraft:water
+[15:02:21] [Server thread/INFO]: [dotunglamnd: Successfully filled 633 blocks]
+[15:02:59] [Server thread/INFO]: dotunglamnd has made the advancement [Monster Hunter]
+[15:07:10] [Server thread/INFO]: dotunglamnd issued server command: /time set day
+[15:07:10] [Server thread/INFO]: [dotunglamnd: Set the time to 1000]
+[15:15:22] [Server thread/INFO]: dotunglamnd issued server command: /fill -10 48 -31
+[15:15:50] [Server thread/INFO]: dotunglamnd issued server command: /fill -10 48 -31 -39 60 -14 minecraft:dirt replace
+[15:15:50] [Server thread/INFO]: [dotunglamnd: Successfully filled 6830 blocks]
+[15:17:08] [Server thread/INFO]: dotunglamnd issued server command: /time set day
+[15:17:08] [Server thread/INFO]: [dotunglamnd: Set the time to 1000]
+[15:20:22] [Server thread/INFO]: dotunglamnd issued server command: /fill
+[15:20:25] [Server thread/INFO]: dotunglamnd issued server command: /fill -21 44 -31
+[15:20:48] [Server thread/INFO]: dotunglamnd issued server command: /fill -21 44 -31 -11 47 -24 minecraft:dirt replac
+[15:21:06] [Server thread/INFO]: dotunglamnd issued server command: /fill -21 44 -31 -11 47 -24 minecraft:dirt replace minecraft:stone
+[15:21:06] [Server thread/INFO]: [dotunglamnd: Successfully filled 222 blocks]
+[15:21:28] [Server thread/INFO]: dotunglamnd issued server command: /fill -21 44 -23
+[15:21:48] [Server thread/INFO]: dotunglamnd issued server command: /fill -21 44 -23 -38 47 -16 minecraft:dirt replace minecraft:stone
+[15:21:48] [Server thread/INFO]: [dotunglamnd: Successfully filled 174 blocks]
+[15:22:44] [Server thread/INFO]: dotunglamnd issued server command: /fill -41 51 -31
+[15:22:55] [Server thread/INFO]: dotunglamnd issued server command: /fill -41 51 -31 -44 61 -43 air replace
+[15:22:56] [Server thread/INFO]: [dotunglamnd: Successfully filled 489 blocks]
+[15:23:24] [Server thread/INFO]: dotunglamnd issued server command: /fill -36 43 -30
+[15:23:38] [Server thread/INFO]: dotunglamnd issued server command: /fill -36 43 -30 -44 60 -44 air replace
+[15:23:38] [Server thread/INFO]: [dotunglamnd: Successfully filled 1635 blocks]
+[15:24:23] [Server thread/INFO]: dotunglamnd issued server command: /fill -45 48 -32
+[15:24:39] [Server thread/INFO]: dotunglamnd issued server command: /fill -45 48 -32 -40 42 -37 minecraft:stone replace
+[15:24:39] [Server thread/INFO]: [dotunglamnd: Successfully filled 186 blocks]
+[15:26:23] [Server thread/INFO]: dotunglamnd issued server command: /fill -42 62 -59
+[15:26:47] [Server thread/INFO]: dotunglamnd issued server command: /fill -42 62 -59 -12 53 -45 air replace minecraft:dirt
+[15:26:47] [Server thread/INFO]: [dotunglamnd: Successfully filled 686 blocks]
+[15:27:06] [Server thread/INFO]: dotunglamnd issued server command: /fill -42 62 -59 -12 53 -45 air replace minecraft:stone
+[15:27:06] [Server thread/INFO]: [dotunglamnd: Successfully filled 1371 blocks]
+[15:27:21] [Server thread/INFO]: dotunglamnd issued server command: /fill -42 62 -59 -12 53 -45 air replace minecraft:diorite
+[15:27:21] [Server thread/INFO]: [dotunglamnd: Successfully filled 28 blocks]
+[15:27:35] [Server thread/INFO]: dotunglamnd issued server command: /fill -42 62 -59 -12 53 -45 air replace minecraft:granite
+[15:27:35] [Server thread/INFO]: [dotunglamnd: Successfully filled 223 blocks]
+[15:28:00] [Server thread/INFO]: dotunglamnd issued server command: /time set da
+[15:28:02] [Server thread/INFO]: dotunglamnd issued server command: /time set da
+[15:28:03] [Server thread/INFO]: dotunglamnd issued server command: /time set day
+[15:28:03] [Server thread/INFO]: [dotunglamnd: Set the time to 1000]
+[15:29:21] [Server thread/INFO]: dotunglamnd issued server command: /fill -36 31 -19
+[15:29:40] [Server thread/INFO]: dotunglamnd issued server command: /fill -36 31 -19 -10 40 -46
+[15:30:13] [Server thread/INFO]: dotunglamnd issued server command: /fill -36 31 -19 -10 40 -46 minecraft:mossy_stone_bricks replace st
+[15:30:15] [Server thread/INFO]: dotunglamnd issued server command: /fill -36 31 -19 -10 40 -46 minecraft:mossy_stone_bricks replace minecraft:stone
+[15:30:15] [Server thread/INFO]: [dotunglamnd: Successfully filled 2098 blocks]
+[15:31:15] [Server thread/INFO]: dotunglamnd issued server command: /fill -38 76 -32
+[15:31:26] [Server thread/INFO]: dotunglamnd issued server command: /fill -38 76 -32 -21 28 -39
+[15:31:56] [Server thread/INFO]: dotunglamnd issued server command: /fill -38 76 -32 -21 28 -39 minecraft:chain replace air
+[15:31:56] [Server thread/INFO]: [dotunglamnd: Successfully filled 6045 blocks]
+[15:33:16] [Server thread/INFO]: dotunglamnd issued server command: /fill -21 76 -36
+[15:33:45] [Server thread/INFO]: dotunglamnd issued server command: /fill -21 76 -36 -38 52 -36 air replace minecraft:chain
+[15:33:45] [Server thread/INFO]: [dotunglamnd: Successfully filled 445 blocks]
+[15:33:52] [Server thread/INFO]: dotunglamnd issued server command: /fill -21 76 -36 -38 52 -36 air replace minecraft:chain
+[15:34:12] [Server thread/INFO]: dotunglamnd issued server command: /fill -21 76 -37
+[15:34:30] [Server thread/INFO]: dotunglamnd issued server command: /fill -21 76 -37 -35 38 -39 air replace minecraft:chain
+[15:34:30] [Server thread/INFO]: [dotunglamnd: Successfully filled 1671 blocks]
+[15:35:43] [Server thread/INFO]: dotunglamnd issued server command: /fill -21 76 -35
+[15:36:05] [Server thread/INFO]: dotunglamnd issued server command: /fill -21 76 -35 -24 30 -32 air replace minecraft:chain
+[15:36:05] [Server thread/INFO]: [dotunglamnd: Successfully filled 703 blocks]
+[15:47:30] [Server thread/INFO]: dotunglamnd issued server command: /fill -25 72 -32
+[15:47:48] [Server thread/INFO]: dotunglamnd issued server command: /fill -25 72 -32 -38 54 -39 air replace minecraft:chain
+[15:47:48] [Server thread/INFO]: [dotunglamnd: Successfully filled 304 blocks]
+[15:50:02] [Server thread/INFO]: dotunglamnd issued server command: /fill -19 26 -35
+[15:50:27] [Server thread/INFO]: dotunglamnd issued server command: /fill -19 26 -35 -36 30 -40 minecraft:infested_mossy_stone_bricks replace minecraft:stone
+[15:50:27] [Server thread/INFO]: [dotunglamnd: Successfully filled 351 blocks]
+[15:51:04] [Server thread/INFO]: dotunglamnd issued server command: /fill -20 27 -34
+[15:51:25] [Server thread/INFO]: dotunglamnd issued server command: /fill -20 27 -34 -37 37 -45 minecraft:dirt replace air
+[15:51:25] [Server thread/INFO]: [dotunglamnd: Successfully filled 734 blocks]
+[15:52:42] [Server thread/INFO]: dotunglamnd issued server command: /fill -20 28 -38
+[15:53:04] [Server thread/INFO]: dotunglamnd issued server command: /fill -20 28 -38 -29 35 -42 minecraft:dirt replace minecraft:chain
+[15:53:04] [Server thread/INFO]: [dotunglamnd: Successfully filled 59 blocks]
+[15:54:02] [Server thread/INFO]: dotunglamnd issued server command: /fill -25 30 -32vsdav -29 35 -42 minecraft:dirt replace minecraft:chain
+[15:54:21] [Server thread/INFO]: dotunglamnd issued server command: /fill -25 30 -32 -25 36 -37 minecraft:dirt replace minecraft:chain
+[15:54:21] [Server thread/INFO]: [dotunglamnd: Successfully filled 36 blocks]
+[15:54:43] [Server thread/INFO]: dotunglamnd issued server command: /fill -33 31 -32 -25 36 -37 minecraft:dirt replace minecraft:chain
+[15:54:43] [Server thread/INFO]: [dotunglamnd: Successfully filled 220 blocks]
+[15:56:03] [Server thread/INFO]: dotunglamnd issued server command: /fill -25 53 -35
+[15:56:22] [Server thread/INFO]: dotunglamnd issued server command: /fill -25 53 -35 -37 43 -20 air replace minecraft:chain
+[15:56:22] [Server thread/INFO]: [dotunglamnd: Successfully filled 125 blocks]
+[15:57:46] [Server thread/INFO]: dotunglamnd issued server command: /fill -26 34 -20
+[15:58:05] [Server thread/INFO]: dotunglamnd issued server command: /fill -26 34 -20 -13 29 -43 minecraft:dirt replace minecraft:diorite
+[15:58:05] [Server thread/INFO]: [dotunglamnd: Successfully filled 113 blocks]
+[15:58:15] [Server thread/INFO]: dotunglamnd issued server command: /fill -26 34 -20 -13 29 -43 minecraft:dirt replace minecraft:stone
+[15:58:15] [Server thread/INFO]: [dotunglamnd: Successfully filled 319 blocks]
+[15:58:42] [Server thread/INFO]: dotunglamnd issued server command: /fill -43 63 -4
+[15:59:13] [Server thread/INFO]: dotunglamnd issued server command: /fill -43 63 -4 -2 60 -61 minecraft:dirt replace minecraft:grass_block
+[15:59:13] [Server thread/INFO]: [dotunglamnd: Successfully filled 944 blocks]
+[15:59:21] [Server thread/INFO]: dotunglamnd issued server command: /fill -43 63 -4 -2 30 -61 minecraft:dirt replace minecraft:grass_block
+[15:59:51] [Server thread/INFO]: dotunglamnd issued server command: /fill -43 63 -4 -2 30 -61 minecraft:grass_block replace minecraft:dirt
+[16:00:01] [Server thread/INFO]: dotunglamnd issued server command: /fill -43 63 -4 -2 60 -61 minecraft:grass_block replace minecraft:dirt
+[16:00:01] [Server thread/INFO]: [dotunglamnd: Successfully filled 2820 blocks]
+[16:00:17] [Server thread/INFO]: dotunglamnd issued server command: /fill -43 60 -4 -2 30 -61 minecraft:grass_block replace minecraft:dirt
+[16:00:23] [Server thread/INFO]: dotunglamnd issued server command: /fill -43 60 -4 -2 40 -61 minecraft:grass_block replace minecraft:dirt
+[16:00:29] [Server thread/INFO]: dotunglamnd issued server command: /fill -43 60 -4 -2 50 -61 minecraft:grass_block replace minecraft:dirt
+[16:00:29] [Server thread/INFO]: [dotunglamnd: Successfully filled 3076 blocks]
+[16:00:36] [Server thread/INFO]: dotunglamnd issued server command: /fill -43 50 -4 -2 40 -61 minecraft:grass_block replace minecraft:dirt
+[16:00:36] [Server thread/INFO]: [dotunglamnd: Successfully filled 603 blocks]
+[16:00:45] [Server thread/INFO]: dotunglamnd issued server command: /fill -43 50 -4 -2 300 -61 minecraft:grass_block replace minecraft:dirt
+[16:00:50] [Server thread/INFO]: dotunglamnd issued server command: /fill -43 50 -4 -2 30 -61 minecraft:grass_block replace minecraft:dirt
+[16:00:56] [Server thread/INFO]: dotunglamnd issued server command: /fill -43 40 -4 -2 30 -61 minecraft:grass_block replace minecraft:dirt
+[16:00:56] [Server thread/INFO]: [dotunglamnd: Successfully filled 1024 blocks]
+[16:01:09] [Server thread/INFO]: dotunglamnd issued server command: /time set day
+[16:01:09] [Server thread/INFO]: [dotunglamnd: Set the time to 1000]
+[16:01:51] [Server thread/INFO]: dotunglamnd issued server command: /fill -39 45 -18
+[16:02:17] [Server thread/INFO]: dotunglamnd issued server command: /fill -39 45 -18 -10 30 -48 minecraft:grass_block replace s
+[16:02:23] [Server thread/INFO]: dotunglamnd issued server command: /fill -39 45 -18 -10 30 -48 minecraft:grass_block replace minecraft:stone
+[16:02:23] [Server thread/INFO]: [dotunglamnd: Successfully filled 2134 blocks]
+[16:11:09] [Server thread/INFO]: dotunglamnd issued server command: /time set day
+[16:11:09] [Server thread/INFO]: [dotunglamnd: Set the time to 1000]
+[16:13:17] [Server thread/INFO]: dotunglamnd has made the advancement [Hot Stuff]
+[16:13:41] [Server thread/INFO]: dotunglamnd issued server command: /kill dotunglamnd
+[16:13:41] [Server thread/INFO]: dotunglamnd fell out of the world
+[16:13:41] [Server thread/INFO]: [dotunglamnd: Killed dotunglamnd]
+[16:13:46] [Server thread/INFO]: [@: Teleported dotunglamnd to -31.5, 82.0, -0.5]
+[16:13:51] [Server thread/INFO]: dotunglamnd issued server command: /kill dotunglamnd
+[16:13:51] [Server thread/INFO]: dotunglamnd fell out of the world
+[16:13:51] [Server thread/INFO]: [dotunglamnd: Killed dotunglamnd]
+[16:14:41] [Server thread/INFO]: [@: Teleported dotunglamnd to -31.5, 82.0, -0.5]
+[16:26:51] [Server thread/INFO]: [@: Teleported dotunglamnd to -6142.5, 94.0, 6300.5]
+[16:27:12] [Server thread/INFO]: [@: Teleported dotunglamnd to -31.5, 82.0, -0.5]
+[16:27:24] [Server thread/INFO]: [@: Teleported dotunglamnd to -6142.5, 94.0, 6300.5]
+[16:27:52] [Server thread/INFO]: [@: Teleported dotunglamnd to -31.5, 82.0, -0.5]
+[16:28:02] [Server thread/INFO]: [@: Teleported dotunglamnd to 0.5, 131.0, -2638.5]
+[16:29:55] [Server thread/INFO]: [@: Teleported dotunglamnd to -31.5, 82.0, -0.5]
+[16:30:05] [Server thread/INFO]: [@: Teleported dotunglamnd to -6142.5, 94.0, 6300.5]
+[16:30:26] [Server thread/INFO]: [@: Teleported dotunglamnd to -31.5, 82.0, -0.5]
+[16:30:36] [Server thread/INFO]: [@: Teleported dotunglamnd to -4404.5, 94.0, -5276.5]
+[16:31:00] [Server thread/INFO]: [@: Teleported dotunglamnd to -31.5, 82.0, -0.5]
+[16:31:08] [Server thread/INFO]: [@: Teleported dotunglamnd to -773.5, 116.0, -3708.5]
+[16:32:33] [Server thread/INFO]: [@: Teleported dotunglamnd to -31.5, 82.0, -0.5]
+[16:42:45] [Server thread/INFO]: dotunglamnd lost connection: Disconnected
+[16:42:45] [Server thread/INFO]: dotunglamnd left the game
+[17:19:41] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[17:19:45] [Server thread/INFO]: Stopping the server
+[17:19:45] [Server thread/INFO]: Stopping server
+[17:19:45] [Server thread/INFO]: Saving players
+[17:19:45] [Server thread/INFO]: Saving worlds
+[17:19:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:19:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:19:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:19:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:19:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:19:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:19:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:19:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:19:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:19:45] [Server thread/INFO]: Flushing Chunk IO
+[17:19:45] [Server thread/INFO]: Closing Thread Pool
+[17:19:45] [Server thread/INFO]: Closing Server
