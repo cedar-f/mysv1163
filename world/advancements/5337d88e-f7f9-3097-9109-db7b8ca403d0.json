@@ -631,6 +631,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2020-09-21 18:04:56 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2020-09-21 07:42:14 +0700"
