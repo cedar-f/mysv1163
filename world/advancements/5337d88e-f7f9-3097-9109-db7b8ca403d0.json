@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2020-09-22 20:01:09 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2020-09-21 21:27:33 +0700"
@@ -305,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2020-09-22 20:02:15 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2020-09-21 21:26:19 +0700"
@@ -345,7 +357,8 @@
     "criteria": {
       "cooked_porkchop": "2020-09-21 22:37:57 +0700",
       "cooked_mutton": "2020-09-21 21:34:17 +0700",
-      "cooked_beef": "2020-09-21 21:41:34 +0700"
+      "cooked_beef": "2020-09-21 21:41:34 +0700",
+      "mushroom_stew": "2020-09-22 20:02:31 +0700"
     },
     "done": false
   },
@@ -811,6 +824,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2020-09-22 20:02:14 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-09-21 17:30:21 +0700"
@@ -864,6 +883,7 @@
       "minecraft:skeleton": "2020-09-21 15:06:17 +0700",
       "minecraft:spider": "2020-09-21 15:02:59 +0700",
       "minecraft:creeper": "2020-09-21 15:03:02 +0700",
+      "minecraft:phantom": "2020-09-22 20:04:43 +0700",
       "minecraft:silverfish": "2020-09-21 15:04:13 +0700",
       "minecraft:zombie": "2020-09-21 15:10:03 +0700"
     },
@@ -950,6 +970,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2020-09-21 21:46:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2020-09-22 20:01:09 +0700"
     },
     "done": true
   },
@@ -1859,6 +1885,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-09-21 21:28:11 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2020-09-22 20:01:09 +0700"
     },
     "done": true
   },
