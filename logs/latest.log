@@ -1,105 +1,30 @@
-[00:00:44] [Server thread/INFO]: lucbeo discovered the floor was lava
-[00:05:02] [Server thread/WARN]: lucbeo was kicked due to keepalive timeout!
-[00:05:02] [Server thread/INFO]: lucbeo lost connection: Timed out
-[00:05:02] [Server thread/INFO]: lucbeo left the game
-[00:05:42] [User Authenticator #5/INFO]: UUID of player lucbeo is 171cd058-5c5c-39e5-bf43-40d35e5a2e47
-[00:05:42] [Server thread/INFO]: lucbeo joined the game
-[00:05:42] [Server thread/INFO]: lucbeo[/27.71.108.243:35555] logged in with entity id 3306 at ([world]67.83911755643535, 68.02442408821369, -64.96090899611053)
-[00:06:14] [Server thread/INFO]: lucbeo lost connection: Disconnected
-[00:06:14] [Server thread/INFO]: lucbeo left the game
-[00:06:19] [Server thread/INFO]: No ? Goay lost connection: Disconnected
-[00:06:19] [Server thread/INFO]: No ? Goay left the game
-[00:54:58] [User Authenticator #6/INFO]: UUID of player No ? Goay is fdb5c7a4-dfc8-3b0c-a51e-d77b49b0b30b
-[00:54:59] [Server thread/INFO]: No ? Goay joined the game
-[00:54:59] [Server thread/INFO]: No ? Goay[/127.0.0.1:55868] logged in with entity id 3475 at ([world]25.09752001839988, 79.5625, 1.5988800200795432)
-[00:55:19] [User Authenticator #6/INFO]: UUID of player Cashuto is 32837085-0880-37e3-8cc9-66759e5b5536
-[00:55:19] [Server thread/INFO]: Cashuto joined the game
-[00:55:19] [Server thread/INFO]: Cashuto[/14.226.228.111:58296] logged in with entity id 3563 at ([world]-44.23750001192093, 67.0, 66.98161423851413)
-[00:56:38] [User Authenticator #7/INFO]: UUID of player lucbeo is 171cd058-5c5c-39e5-bf43-40d35e5a2e47
-[00:56:38] [Server thread/INFO]: lucbeo joined the game
-[00:56:38] [Server thread/INFO]: lucbeo[/27.71.108.243:14544] logged in with entity id 3825 at ([world]25.351473225221174, 71.0, 7.939486683568056)
-[00:58:56] [Server thread/INFO]: lucbeo has made the advancement [Suit Up]
-[01:04:49] [Server thread/INFO]: lucbeo lost connection: Disconnected
-[01:04:49] [Server thread/INFO]: lucbeo left the game
-[01:04:58] [User Authenticator #8/INFO]: UUID of player lucbeo is 171cd058-5c5c-39e5-bf43-40d35e5a2e47
-[01:04:58] [Server thread/INFO]: lucbeo joined the game
-[01:04:58] [Server thread/INFO]: lucbeo[/27.71.108.243:64209] logged in with entity id 5904 at ([world]-6033.7185023015, 80.0, 6334.0877878398505)
-[01:07:58] [Server thread/WARN]: lucbeo moved too quickly! 11.217581986136981,-0.07544406518948676,-5.167927549440562
-[01:12:14] [Server thread/INFO]: lucbeo was slain by Zombie
-[01:12:30] [Server thread/INFO]: lucbeo lost connection: Disconnected
-[01:12:30] [Server thread/INFO]: lucbeo left the game
-[01:12:39] [User Authenticator #9/INFO]: UUID of player lucbeo is 171cd058-5c5c-39e5-bf43-40d35e5a2e47
-[01:12:39] [Server thread/INFO]: lucbeo joined the game
-[01:12:39] [Server thread/INFO]: lucbeo[/27.71.108.243:54608] logged in with entity id 8182 at ([world]21.5, 71.0, 9.5)
-[01:26:24] [Server thread/INFO]: lucbeo was blown up by Creeper
-[01:32:09] [Server thread/INFO]: lucbeo was shot by Skeleton
-[01:36:59] [Server thread/ERROR]: Block at -5,971, 52, 6,151 is Block{minecraft:water} but has net.minecraft.server.v1_16_R2.TileEntityChest@2300f21c. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
-[01:43:14] [Server thread/INFO]: No ? Goay was slain by Cave Spider
-[01:44:12] [Server thread/INFO]: No ? Goay was slain by Cave Spider
-[01:45:17] [Async Chat Thread - #1/INFO]: <Cashuto> doc dung ko
-[01:47:18] [Server thread/INFO]: lucbeo has made the advancement [Diamonds!]
-[01:49:41] [Server thread/WARN]: Boat (vehicle of lucbeo) moved wrongly! 0.3942116545204044
-[01:59:42] [Server thread/INFO]: lucbeo has made the advancement [Take Aim]
-[02:02:10] [Async Chat Thread - #2/INFO]: <Cashuto> sao hom qua m ko mo server Thang
-[02:02:25] [Async Chat Thread - #2/INFO]: <Cashuto> m mo la co Lam vao choi
-[02:02:42] [Async Chat Thread - #2/INFO]: <Cashuto> t cung doan vay roi
-[02:03:47] [Async Chat Thread - #3/INFO]: <Cashuto> dua bo di nhau chi co muc dich chinh la len giuong dung ko
-[02:05:41] [Server thread/INFO]: lucbeo lost connection: Disconnected
-[02:05:41] [Server thread/INFO]: lucbeo left the game
-[02:09:33] [Async Chat Thread - #4/INFO]: <Cashuto> ma
-[02:09:40] [Async Chat Thread - #4/INFO]: <Cashuto> dao nay gio ko thay kc
-[02:11:38] [Async Chat Thread - #5/INFO]: <Cashuto> xich nguoi yeu
-[02:11:51] [Async Chat Thread - #5/INFO]: <Cashuto> kieu SM ay
-[02:24:21] [Server thread/INFO]: Cashuto lost connection: Disconnected
-[02:24:21] [Server thread/INFO]: Cashuto left the game
-[02:24:35] [User Authenticator #10/INFO]: UUID of player Cashuto is 32837085-0880-37e3-8cc9-66759e5b5536
-[02:24:35] [Server thread/INFO]: Cashuto joined the game
-[02:24:35] [Server thread/INFO]: Cashuto[/14.226.228.111:36541] logged in with entity id 39802 at ([world]21.02128005903693, 79.875, -5.538720373127222)
-[02:24:53] [Async Chat Thread - #6/INFO]: <Cashuto> t out ty
-[02:24:55] [Server thread/INFO]: Cashuto lost connection: Disconnected
-[02:24:55] [Server thread/INFO]: Cashuto left the game
-[02:34:14] [User Authenticator #11/INFO]: UUID of player Cashuto is 32837085-0880-37e3-8cc9-66759e5b5536
-[02:34:14] [Server thread/INFO]: Cashuto joined the game
-[02:34:14] [Server thread/INFO]: Cashuto[/14.226.228.111:58452] logged in with entity id 41071 at ([world]21.02128005903693, 79.875, -5.538720373127222)
-[02:34:22] [Async Chat Thread - #7/INFO]: <Cashuto> kho vl
-[02:34:33] [Async Chat Thread - #7/INFO]: <Cashuto> giua dem da bung
-[02:35:58] [Async Chat Thread - #8/INFO]: <Cashuto> ukn
-[02:36:00] [Server thread/INFO]: No ? Goay lost connection: Disconnected
-[02:36:00] [Server thread/INFO]: No ? Goay left the game
-[03:08:15] [Server thread/INFO]: Villager EntityVillager['Villager'/394, uuid='81d65b64-b52a-479b-9b39-84f1f8b5025e', l='ServerLevel[world]', x=14.30, y=74.56, z=53.70, cx=0, cz=3, tl=1310806, v=true, d=false] died, message: 'Villager was slain by Cashuto'
-[03:08:23] [Server thread/INFO]: Villager EntityVillager['Leatherworker'/374, uuid='bb5454ca-8293-4e23-8d35-4a2fd96c84a5', l='ServerLevel[world]', x=28.46, y=74.56, z=55.30, cx=1, cz=3, tl=238879, v=true, d=false] died, message: 'Leatherworker was slain by Cashuto'
-[03:21:41] [Server thread/INFO]: Cashuto lost connection: Disconnected
-[03:21:41] [Server thread/INFO]: Cashuto left the game
-[04:31:52] [User Authenticator #12/INFO]: UUID of player Cashuto is 32837085-0880-37e3-8cc9-66759e5b5536
-[04:31:52] [Server thread/INFO]: Cashuto joined the game
-[04:31:52] [Server thread/INFO]: Cashuto[/14.226.228.111:37547] logged in with entity id 49172 at ([world]19.637064622664802, 79.0, -9.863687499518683)
-[04:32:42] [Server thread/INFO]: Cashuto fell from a high place
-[04:34:26] [Server thread/INFO]: Cashuto lost connection: Disconnected
-[04:34:26] [Server thread/INFO]: Cashuto left the game
-[04:37:05] [User Authenticator #13/INFO]: UUID of player Cashuto is 32837085-0880-37e3-8cc9-66759e5b5536
-[04:37:05] [Server thread/INFO]: Cashuto joined the game
-[04:37:05] [Server thread/INFO]: Cashuto[/14.226.228.111:59218] logged in with entity id 49674 at ([world]17.53010361851788, 74.0, 53.12103144331805)
-[04:45:59] [Server thread/INFO]: Cashuto lost connection: Disconnected
-[04:45:59] [Server thread/INFO]: Cashuto left the game
-[04:46:19] [User Authenticator #14/INFO]: UUID of player Cashuto is 32837085-0880-37e3-8cc9-66759e5b5536
-[04:46:20] [Server thread/INFO]: Cashuto joined the game
-[04:46:20] [Server thread/INFO]: Cashuto[/14.226.228.111:37617] logged in with entity id 51202 at ([world]-17.695227271456268, 64.0, 100.96617564463301)
-[04:47:44] [Server thread/INFO]: Villager EntityVillager['Leatherworker'/389, uuid='934a0ed4-b37b-41ee-ae93-91bb2ca7bf42', l='ServerLevel[world]', x=1.61, y=63.00, z=29.30, cx=0, cz=1, tl=404203, v=true, d=false] died, message: 'Leatherworker was slain by Husk'
-[04:50:16] [Server thread/INFO]: Cashuto fell from a high place
-[05:01:48] [Server thread/INFO]: Cashuto lost connection: Disconnected
-[05:01:48] [Server thread/INFO]: Cashuto left the game
-[05:02:51] [Server thread/INFO]: Stopping server
-[05:02:51] [Server thread/INFO]: Saving players
-[05:02:51] [Server thread/INFO]: Saving worlds
-[05:02:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:02:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:02:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[05:02:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:02:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[05:02:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:02:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:02:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:02:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:02:51] [Server thread/INFO]: Flushing Chunk IO
-[05:02:51] [Server thread/INFO]: Closing Thread Pool
-[05:02:51] [Server thread/INFO]: Closing Server
+[00:02:53] [User Authenticator #3/INFO]: UUID of player Cashuto is 32837085-0880-37e3-8cc9-66759e5b5536
+[00:02:54] [Server thread/INFO]: Cashuto joined the game
+[00:02:54] [Server thread/INFO]: Cashuto[/171.232.247.215:62730] logged in with entity id 7841 at ([world]-25.300000011920908, 67.5625, 55.77905552144663)
+[00:03:39] [Server thread/INFO]: Cashuto lost connection: Disconnected
+[00:03:39] [Server thread/INFO]: Cashuto left the game
+[00:12:18] [User Authenticator #4/INFO]: UUID of player Cashuto is 32837085-0880-37e3-8cc9-66759e5b5536
+[00:12:18] [Server thread/INFO]: Cashuto joined the game
+[00:12:18] [Server thread/INFO]: Cashuto[/171.232.247.215:62762] logged in with entity id 9256 at ([world]17.070204247550897, 64.0, 41.227645706664426)
+[00:36:08] [Server thread/INFO]: Villager EntityVillager['Villager'/271, uuid='72bb7dac-9a4d-4cba-ab87-55c0284b45ac', l='ServerLevel[world]', x=32.90, y=64.00, z=49.35, cx=2, cz=3, tl=222573, v=true, d=false] died, message: 'Villager was slain by Cashuto'
+[00:36:17] [Server thread/INFO]: Villager EntityVillager['Villager'/295, uuid='bcf5140b-9ac0-43a2-9e0c-450e1f6900ee', l='ServerLevel[world]', x=50.54, y=64.00, z=24.54, cx=3, cz=1, tl=199413, v=true, d=false] died, message: 'Villager was slain by Cashuto'
+[01:15:43] [Server thread/INFO]: No ? Goay was slain by Iron Golem
+[01:17:09] [Server thread/INFO]: Cashuto lost connection: Disconnected
+[01:17:09] [Server thread/INFO]: Cashuto left the game
+[01:31:50] [Server thread/INFO]: No ? Goay lost connection: Disconnected
+[01:31:50] [Server thread/INFO]: No ? Goay left the game
+[01:32:06] [Server thread/INFO]: Stopping server
+[01:32:06] [Server thread/INFO]: Saving players
+[01:32:06] [Server thread/INFO]: Saving worlds
+[01:32:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:32:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:32:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:32:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:32:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:32:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:32:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:32:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:32:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:32:07] [Server thread/INFO]: Flushing Chunk IO
+[01:32:07] [Server thread/INFO]: Closing Thread Pool
+[01:32:07] [Server thread/INFO]: Closing Server
