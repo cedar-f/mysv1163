@@ -1,30 +1,18 @@
-[00:02:53] [User Authenticator #3/INFO]: UUID of player Cashuto is 32837085-0880-37e3-8cc9-66759e5b5536
-[00:02:54] [Server thread/INFO]: Cashuto joined the game
-[00:02:54] [Server thread/INFO]: Cashuto[/171.232.247.215:62730] logged in with entity id 7841 at ([world]-25.300000011920908, 67.5625, 55.77905552144663)
-[00:03:39] [Server thread/INFO]: Cashuto lost connection: Disconnected
-[00:03:39] [Server thread/INFO]: Cashuto left the game
-[00:12:18] [User Authenticator #4/INFO]: UUID of player Cashuto is 32837085-0880-37e3-8cc9-66759e5b5536
-[00:12:18] [Server thread/INFO]: Cashuto joined the game
-[00:12:18] [Server thread/INFO]: Cashuto[/171.232.247.215:62762] logged in with entity id 9256 at ([world]17.070204247550897, 64.0, 41.227645706664426)
-[00:36:08] [Server thread/INFO]: Villager EntityVillager['Villager'/271, uuid='72bb7dac-9a4d-4cba-ab87-55c0284b45ac', l='ServerLevel[world]', x=32.90, y=64.00, z=49.35, cx=2, cz=3, tl=222573, v=true, d=false] died, message: 'Villager was slain by Cashuto'
-[00:36:17] [Server thread/INFO]: Villager EntityVillager['Villager'/295, uuid='bcf5140b-9ac0-43a2-9e0c-450e1f6900ee', l='ServerLevel[world]', x=50.54, y=64.00, z=24.54, cx=3, cz=1, tl=199413, v=true, d=false] died, message: 'Villager was slain by Cashuto'
-[01:15:43] [Server thread/INFO]: No ? Goay was slain by Iron Golem
-[01:17:09] [Server thread/INFO]: Cashuto lost connection: Disconnected
-[01:17:09] [Server thread/INFO]: Cashuto left the game
-[01:31:50] [Server thread/INFO]: No ? Goay lost connection: Disconnected
-[01:31:50] [Server thread/INFO]: No ? Goay left the game
-[01:32:06] [Server thread/INFO]: Stopping server
-[01:32:06] [Server thread/INFO]: Saving players
-[01:32:06] [Server thread/INFO]: Saving worlds
-[01:32:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:32:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:32:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[01:32:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:32:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[01:32:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:32:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:32:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:32:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:32:07] [Server thread/INFO]: Flushing Chunk IO
-[01:32:07] [Server thread/INFO]: Closing Thread Pool
-[01:32:07] [Server thread/INFO]: Closing Server
+[00:52:18] [Server thread/INFO]: Villager EntityVillager['Cartographer'/319, uuid='ca93abc8-f9c3-41dd-9b32-c62946ecc39d', l='ServerLevel[world]', x=109.70, y=70.80, z=-49.70, cx=6, cz=-4, tl=247732, v=true, d=false] died, message: 'Cartographer was slain by Zombie'
+[01:12:22] [Server thread/INFO]: No ? Goay lost connection: Disconnected
+[01:12:22] [Server thread/INFO]: No ? Goay left the game
+[01:12:45] [Server thread/INFO]: Stopping server
+[01:12:45] [Server thread/INFO]: Saving players
+[01:12:45] [Server thread/INFO]: Saving worlds
+[01:12:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:12:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:12:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:12:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:12:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:12:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:12:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:12:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:12:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:12:48] [Server thread/INFO]: Flushing Chunk IO
+[01:12:48] [Server thread/INFO]: Closing Thread Pool
+[01:12:48] [Server thread/INFO]: Closing Server
